@@ -38,26 +38,20 @@
 
 ---
 
-### 🌐 Frontend
 <p align="center">
+### 🌐 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 📱 Mobile
 <p align="center">
+### 📱 Mobile
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-### 🗄️ Database
 <p align="center">
+### 🗄️ Database
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
 
 ---
 
