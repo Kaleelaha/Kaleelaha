@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaleel Ahamed</h1>
 <h3 align="center">Software Developer | Flutter Developer | UI/UX Designer | Web Developer</h3>
 
-<table align="center">
+<center><table align="center">
   <tr>
     <td align="center">
       <img src="profile.jpeg" alt="Profile" width="300" height="300">
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table align="center">
+<table align="center"> </center>
 <tr>
 <td>
 
