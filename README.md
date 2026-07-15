@@ -25,7 +25,7 @@
 - 🌐 HTML | CSS | JavaScript
 - 🔥 Firebase | SQL | MongoDB
 - 🎨 UI/UX Designer
-- 🚀 Always Learning New Technologies
+- 🚀 Digital marketing
 
 </td>
 
@@ -39,25 +39,24 @@
 ---
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### 📱 Mobile
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
 ### 🗄️ Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### 🛠 Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-
 
 
 ---
