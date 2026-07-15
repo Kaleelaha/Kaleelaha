@@ -84,12 +84,14 @@
 
 ## 🌟 Featured Projects
 
-- 🩸 BloodLink
-- 💬 Skill Swap
-- 🍔 Food Delivery App
-- 🛒 E-Commerce App
-- 📱 Flutter Mobile App
-- 🌐 Personal Portfolio Website
+| 🚀 Project | 📝 Description |
+|------------|----------------|
+| 🩸 **BloodLink** | Blood Donation App built with Flutter & Firebase |
+| 💬 **Skill Swap** | Platform to learn and teach skills |
+| 🍔 **Food Delivery App** | Modern food ordering application |
+| 🛒 **E-Commerce App** | Shopping app with authentication and cart |
+| 📱 **Flutter Mobile App** | Collection of Flutter applications |
+| 🌐 **Personal Portfolio** | Responsive portfolio website using HTML, CSS & JavaScript |
 
 ---
 
