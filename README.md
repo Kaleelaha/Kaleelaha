@@ -12,17 +12,29 @@
     </td>
   </tr>
 </table>
---
 
-## 🚀 About Me
+<table align="center">
+<tr>
+<td>
+
+### 🚀 About Me
 
 - 🎓 Computer Science Engineering Graduate
-- 📱 Flutter Mobile App Developer
-- 🌐 HTML | CSS | JavaScript Developer
-- 🔥 Firebase Authentication, Firestore & Storage
+- 💻 Full Stack & Flutter Developer
+- ⚛️ React Developer
+- 🌐 HTML | CSS | JavaScript
+- 🔥 Firebase | SQL | MongoDB
 - 🎨 UI/UX Designer
-- 💡 Passionate about creating modern applications
-- 🌱 Currently learning Advanced Flutter & Backend
+- 🚀 Always Learning New Technologies
+
+</td>
+
+<td>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250">
+</td>
+
+</tr>
+</table>
 
 ---
 
