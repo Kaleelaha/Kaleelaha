@@ -81,7 +81,7 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 | 🚀 Project | 📝 Description |
 |------------|----------------|
