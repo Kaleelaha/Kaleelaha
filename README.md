@@ -7,7 +7,7 @@
   <p align="center">
   <img src="profile.jpeg"
        alt="Banner"
-       width="800"
+       width="300"
        height="300">
 </p>
 
