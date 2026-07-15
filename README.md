@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kaleel Ahamed</h1>
 <h3 align="center">Software Developer | Flutter Developer | UI/UX Designer | Web Developer</h3>
 
-<p align="center">
-  <img src="profile.jpeg"
-       alt="Profile"
-       width="300"
-       height="300">
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-       alt="Coding GIF"
-       width="500">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="profile.jpeg" alt="Profile" width="300" height="300">
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="500">
+    </td>
+  </tr>
+</table>
 --
 
 ## 🚀 About Me
