@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaleel Ahamed</h1>
 <h3 align="center">Software Developer | Flutter Developer | UI/UX Designer | Web Developer</h3>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;Firebase+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" /> -->
-
   <p align="center">
   <img src="profile.jpeg"
        alt="Banner"
