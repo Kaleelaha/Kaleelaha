@@ -38,18 +38,17 @@
 
 ---
 
+## 🛠 Languages
+
 <p align="center">
-### 🌐 Frontend
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 <p align="center">
-### 📱 Mobile
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
 <p align="center">
-### 🗄️ Database
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
