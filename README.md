@@ -4,7 +4,7 @@
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;Firebase+Developer;UI%2FUX+Designer;Always+Learning+New+Technologies" /> -->
 
-  <img src="profile.jpeg">
+  <img src="profile.jpeg style="height:220px","width:220px">
 </p>
 
 ---
