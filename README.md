@@ -5,11 +5,15 @@
   <img src="profile.jpeg"
        alt="Banner"
        width="300"
-       height="300">
+       height="300"> &nbsp
+
+
+    <p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
 </p>
 
 --
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
 
 ## 🚀 About Me
 
@@ -22,9 +26,7 @@
 - 🌱 Currently learning Advanced Flutter & Backend
 
 ---
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
+
 ## 💻 Tech Stack
 
 ### Languages
