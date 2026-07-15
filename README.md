@@ -64,16 +64,11 @@
 
 ## 🛠 Tools
 
-- VS Code## 🛠 Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github,firebase" />
 </p>
-- Android Studio
-- Figma
-- Git
-- GitHub
-- Firebase
+
 
 ---
 
